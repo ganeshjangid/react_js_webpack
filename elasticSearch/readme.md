@@ -1,0 +1,1 @@
+https://livecodestream.dev/post/a-quick-introduction-to-elasticsearch-for-node-developers/
